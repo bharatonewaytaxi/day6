@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables & secrets (keep .env.example)
+.env
+.env.local
+docker-jupyterlab/.env
+
+# Generated training outputs & artifacts (do NOT ignore notebooks/data/ or notebooks/configs/)
+notebooks/artifacts/
+notebooks/models/
+notebooks/outputs/
+
+# Docker exported offline image archives
+*.tar
+
+# OS metadata
+.DS_Store
+Thumbs.db
