@@ -106,12 +106,13 @@ By 17:00 today, every fresher will be able to:
 
 ## 6. Complete Day 6 File Guide
 
-Quick links: [`slides-and-explanations.md`](slides-and-explanations.md) · [`coding-samples-and-exercises.md`](coding-samples-and-exercises.md) · [`docker-jupyterlab/DOCKER_SETUP.md`](docker-jupyterlab/DOCKER_SETUP.md) · [`notebooks/`](notebooks/)
+Quick links: [`Day6_ML_Lifecycle_and_Pipelines_Training.pptx`](Day6_ML_Lifecycle_and_Pipelines_Training.pptx) · [`slides-and-explanations.md`](slides-and-explanations.md) · [`coding-samples-and-exercises.md`](coding-samples-and-exercises.md) · [`docker-jupyterlab/DOCKER_SETUP.md`](docker-jupyterlab/DOCKER_SETUP.md) · [`notebooks/`](notebooks/)
 
 ```text
 day6/
 ├── .gitignore                                 # Ignores checkpoints, caches, .env & generated artifacts
 ├── README.md                                  # This Master Trainer Runbook
+├── Day6_ML_Lifecycle_and_Pipelines_Training.pptx  # 39-slide classroom PowerPoint deck
 ├── slides-and-explanations.md                 # 39-slide complete deck + diagrams + fresher scripts
 ├── coding-samples-and-exercises.md            # Live demo scripts, exercise guides, hints & rubrics
 ├── docker-jupyterlab/
