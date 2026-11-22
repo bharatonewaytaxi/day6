@@ -145,5 +145,6 @@ day6/
     ├── 07_exercise_training_pipeline_solution.ipynb
     ├── 08_demo_experiments_reproducibility_and_config.ipynb
     ├── 09_capstone_end_to_end_pipeline_starter.ipynb
-    └── 09_capstone_end_to_end_pipeline_solution.ipynb
+    ├── 09_capstone_end_to_end_pipeline_solution.ipynb
+    └── 10_demo_outliers_boxplot_iqr_zscore.ipynb  # Bonus: boxplot, IQR & z-score from scratch
 ```
